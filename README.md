@@ -16,7 +16,7 @@ Welcome to the **Restaurant Landing Page** repository! This project is designed 
 ## Features
 
 - **Responsive Design:** The webpage is fully responsive, ensuring a seamless experience on desktops, tablets, and mobile devices.
-- **Menu Section:** Highlight your delicious offerings with a beautifully designed menu section.
+- **Menu Section:** #How it works, #Meals, #Testimonials, # Pricing and #Try for free with a beautifully designed menu section.
 - **Contact Form:** Allow customers to contact easily with an integrated contact form.
 - **Contact Information:** Provide essential contact details for easy customer inquiries.
 
