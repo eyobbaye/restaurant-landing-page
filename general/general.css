@@ -128,7 +128,7 @@ margin-bottom: 0;
   padding: 1.6rem 3.2rem;
   cursor: pointer;
 
-  /* onlu necessary for .btn */
+  /* only necessary for .btn */
   border: none;
   /* transition: background-color .3s; */
   transition: all 0.3s;
