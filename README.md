@@ -1,8 +1,7 @@
-# restaurant-landing-page
-
 # Restaurant Landing Page
 
 Welcome to the **Restaurant Landing Page** repository! This project is designed to showcase a modern and visually appealing landing page for a restaurant, providing essential information and enticing visitors to dine with us.
+live website [click here](www.restaurant.hidasietele.com)
 
 ## Table of Contents
 
